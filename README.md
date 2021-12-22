@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Pratik Kumar!</h1>
+<h1 align="center">Hi 👋, I'm Vijay Krishnamoorthy!</h1>
 <br>
 
 <p align = "center">
