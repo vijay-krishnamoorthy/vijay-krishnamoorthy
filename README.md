@@ -22,40 +22,40 @@ Here are some ideas to get you started:
 
 <br/>
 <div>
-<img src="https://img.shields.io/badge/angular-%23E23237.svg?&style=for-the-badge&logo=angular&logoColor=white" height="50px" width="180px"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="50px" width="220px"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="50px" width="160px"/>
-<img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="50px" width="160px"/>
+<img src="https://img.shields.io/badge/angular-%23E23237.svg?&style=for-the-badge&logo=angular&logoColor=white" height="40px" width="170px"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="40px" width="210px"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="40px" width="150px"/>
+<img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="40px" width="150px"/>
 
 </div>
 <br/>
 <div>
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="50px" width="220px"/>
-<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" height="50px" width="140px"/>
-<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="50px" width="180px"/>
-<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" height="50px" width="180px"/>
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="40px" width="210px"/>
+<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" height="40px" width="130px"/>
+<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="40px" width="170px"/>
+<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" height="40px" width="170px"/>
 
 </div>
 <br/>
 <div>
- <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" height="50px" width="240px"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="50px" width="180px"/>
- <img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" height="50px" width="150px"/>
- <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="50px" width="150px"/>
+ <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" height="40px" width="230px"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="40px" width="170px"/>
+ <img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" height="40px" width="140px"/>
+ <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="40px" width="140px"/>
 </div>
 <br/>
 <div>
- <img src="https://img.shields.io/badge/oracle%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" height="50px" width="170px"/>
- <img src="https://img.shields.io/badge/sqlite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="50px" width="150px"/>
- <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="50px" width="200px"/>
- <img src="https://img.shields.io/badge/mariadb%20-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" height="50px" width="200px"/>         
+ <img src="https://img.shields.io/badge/oracle%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" height="40px" width="160px"/>
+ <img src="https://img.shields.io/badge/sqlite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="40px" width="140px"/>
+ <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="40px" width="190px"/>
+ <img src="https://img.shields.io/badge/mariadb%20-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" height="40px" width="190px"/>         
 </div>
 <br/>
 <div>
- <img src="https://img.shields.io/badge/jenkins%20-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="50px" width="180px"/>
- <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" height="50px" width="160px"/>
- <img src="https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height="50px" width="160px"/>
- <img src="https://img.shields.io/badge/subversion%20-%23809CC9.svg?&style=for-the-badge&logo=subversion&logoColor=white" height="50px" width="220px"/>
+ <img src="https://img.shields.io/badge/jenkins%20-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="40px" width="170px"/>
+ <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" height="40px" width="150px"/>
+ <img src="https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height="40px" width="150px"/>
+ <img src="https://img.shields.io/badge/subversion%20-%23809CC9.svg?&style=for-the-badge&logo=subversion&logoColor=white" height="40px" width="210px"/>
 </div>
 <br/>
 
